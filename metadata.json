@@ -1,0 +1,5 @@
+{
+  "name": "Phòng Thí Nghiệm Lực Ma Sát Ảo",
+  "description": "Ứng dụng mô phỏng thí nghiệm vật lý khảo sát lực ma sát trượt và hệ số ma sát trên các bề mặt khác nhau.",
+  "requestFramePermissions": []
+}
